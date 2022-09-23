@@ -14,7 +14,7 @@
 :root {
     --main-color: #fd4646;
     --text-color: #171427;
-    --bg-color: #fff;
+    --bg-color: #ffe6e6;
 }
 
 img {
@@ -29,6 +29,7 @@ img {
 
 body {
     color: var(--text-color);
+    background: #ffe6e6;
 }
 
 /* Header */
